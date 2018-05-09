@@ -10,5 +10,5 @@ This is Vedhant and I study at NIT Trichy.
 - Cricket
 - Badminton 
 
-[visit my page!](github.com/vedhant)
+[visit my page!](vedhant.github.io)
 
